@@ -2,7 +2,7 @@
 # Service registers under this name
 spring:
   application:
-    name: profiles-microservice-producer
+    name: producer
 
 # Discovery Server Access
 eureka:

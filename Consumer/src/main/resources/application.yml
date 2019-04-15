@@ -2,7 +2,7 @@
 # Control the InternalResourceViewResolver:
 spring:
   application:
-    name: profiles-microservice-consumer
+    name: consumer
   mvc:
     view:
       prefix: /WEB-INF/views/
